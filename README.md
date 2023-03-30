@@ -5,7 +5,7 @@
 **VxMark** is in a self-contained black case and the HP printer is inside a gray rolling case.\
 
 
-![](<../../.gitbook/assets/Vxmark with printer in case.png>)
+![](<./assets/Vxmark with printer in case.png>)
 
 ## VxMark Setup
 
@@ -21,13 +21,13 @@ The **VxMark** should be set up on a different table than the **VxScan**, in a p
    * [ ] press the power button to turn the printer on
    * [ ] load paper into the paper tray
 
-![Remove printer and power cord](<../../.gitbook/assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<../../.gitbook/assets/printer power cord.png>) ![Press the power button to turn on](<../../.gitbook/assets/printer power button (1).png>)
+![Remove printer and power cord](<./assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<./assets/printer power cord.png>) ![Press the power button to turn on](<./assets/printer power button (1).png>)
 
 2\. **Setup VxMark:**
 
 * [ ] open the case by lifting the latches on the sides and front
 
-![Open the case by lifting the latches](<../../.gitbook/assets/vxmark case latches highlighted.png>)
+![Open the case by lifting the latches](<./assets/vxmark case latches highlighted.png>)
 
 *   [ ] prepare the components:
 
@@ -39,13 +39,13 @@ The **VxMark** should be set up on a different table than the **VxScan**, in a p
 
 
 
-![Prepare components](<../../.gitbook/assets/components .png>) ![Plug headphones into accessible controller](<../../.gitbook/assets/accessible controller.png>)
+![Prepare components](<./assets/components .png>) ![Plug headphones into accessible controller](<./assets/accessible controller.png>)
 
 * [ ] turn the VxMark on: the power button is located to the middle-right of the screen, next to the printer cord. Run your finger along the side of the screen and press the power button firmly for 1 second and then release. The card reader and accessible controller will light up within 3-5 seconds.
 * [ ] remove the privacy screen from the case top (behind the foam)
 * [ ] set up the privacy screen
 * [ ] store the empty headphone pouch behind the privacy screen
 
-![Turn the VxMark on with the power button](<../../.gitbook/assets/power button.png>) ![Remove the privacy screen](<../../.gitbook/assets/new privacy sheild vxmark.png>) ![Set up the privacy screen](<../../.gitbook/assets/privacy sleeve on.png>)
+![Turn the VxMark on with the power button](<./assets/power button.png>) ![Remove the privacy screen](<./assets/new privacy sheild vxmark.png>) ![Set up the privacy screen](<./assets/privacy sleeve on.png>)
 
 VxMark hardware setup is complete.&#x20;
