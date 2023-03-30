@@ -13,13 +13,12 @@ The **VxMark** should be set up on a different table than the **VxScan**, in a p
 **VxMark** can be set up through the following steps:
 
 1. **Unbox and setup printer**:
-
-* [ ] remove the printer and power cord from the case
-* [ ] place the printer on the side of the table closest to the **VxScan**'s location
-* [ ] plug the power cord into the back of the printer
-* [ ] plug the power cord into an outlet
-* [ ] press the power button to turn the printer on
-* [ ] load paper into the paper tray
+   * [ ] remove the printer and power cord from the case
+   * [ ] place the printer on the side of the table closest to the **VxScan**'s location
+   * [ ] plug the power cord into the back of the printer
+   * [ ] plug the power cord into an outlet
+   * [ ] press the power button to turn the printer on
+   * [ ] load paper into the paper tray
 
 ![Remove printer and power cord](<./assets/printer in case.png>) ![Plug the power cord into the back of the printer and into an outlet](<./assets/printer power cord.png>) ![Press the power button to turn on](<./assets/printer power button (1).png>)
 
@@ -29,12 +28,13 @@ The **VxMark** should be set up on a different table than the **VxScan**, in a p
 
 ![Open the case by lifting the latches](<./assets/vxmark case latches highlighted.png>)
 
-* [ ] prepare the components:
-* [ ] pull the **accessible controller** (a) out from the front-left compartment and set it to the left of the case
-* [ ] remove the **headphones** (b) from the travel pouch on top of the screen and plug them into the accessible controller (a)
-* [ ] pull the **power** **cord** (c) out from the back-left compartment and plug it into an outlet
-* [ ] pull the **printer cable** (d) from the mid-right compartment and connect it to the back of the printer
-* [ ] do **not** remove the **card reader** (e) from the front-right compartment, no action is required
+*   [ ] prepare the components:
+
+    * [ ] pull the **accessible controller** (a) out from the front-left compartment and set it to the left of the case
+    * [ ] remove the **headphones** (b) from the travel pouch on top of the screen and plug them into the accessible controller (a)
+    * [ ] pull the **power** **cord** (c) out from the back-left compartment and plug it into an outlet
+    * [ ] pull the **printer cable** (d) from the mid-right compartment and connect it to the back of the printer
+    * [ ] do **not** remove the **card reader** (e) from the front-right compartment, no action is required
 
 ![Prepare components](<./assets/components .png>) ![Plug headphones into accessible controller](<./assets/accessible controller.png>)
 
